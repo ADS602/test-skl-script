@@ -1,0 +1,2 @@
+global tested = 10
+global table = [1,2,"test"]
